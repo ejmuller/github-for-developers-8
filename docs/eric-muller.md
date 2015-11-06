@@ -1,4 +1,5 @@
-Eric Muller
-Chicago
-Pizza
-Guitar
+**Name:** Eric Muller
+**Location:** Chicago
+**Food:** Pizza
+**Hobby:** Guitar
+**Color:** Blue
